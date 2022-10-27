@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Kenyon-E-Williams...
+>Hello, thank you for taking the time to check out my page. Hope you find some of the work interesting and are able to learn a few things along the way :)
+- 👀 I’m interested in ...
+>Data Analytics
+>Data Visualization
+>Data ETL processes
+- 🌱 I’m currently learning ...
+>JavaScript
+>Bash Scripting
+>Networking Commands.
+- 📫 How to reach me ...
+>email:snook3381@gmail.com
+
